@@ -28,3 +28,7 @@ The project is organized into a series of APIs to make coordination easier. You 
 
 ## Contact
 If you have any specific questions, feel free to email me at <robertchen@live.com>! 
+
+## Pull Request
+
+I make very very helpful pull requests. Wikipedia is a great source. Stack Overflow is even better.
